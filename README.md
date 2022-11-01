@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/labjddev/Integrating%20External%20Source%20Control/_apis/build/status/Hinodeya69.calculator?branchName=master)](https://dev.azure.com/labjddev/Integrating%20External%20Source%20Control/_build/latest?definitionId=4&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
